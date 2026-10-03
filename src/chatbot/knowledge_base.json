@@ -1,0 +1,268 @@
+{
+  "Apple___Apple_scab": {
+    "disease_name": "Apple Scab",
+    "cause": "Fungal infection (Venturia inaequalis)",
+    "prevention": "Plant resistant cultivars, prune trees to encourage air circulation.",
+    "treatment": "Apply fungicides containing captan or myclobutanil early in the growing season.",
+    "citation": "USDA Agricultural Extension Service"
+  },
+  "Apple___Black_rot": {
+    "disease_name": "Apple Black Rot",
+    "cause": "Fungal pathogen (Botryosphaeria obtusa)",
+    "prevention": "Prune out dead or diseased branches and remove mummified fruit from trees.",
+    "treatment": "Apply captan or copper-based fungicides starting at silver tip through petal fall.",
+    "citation": "Penn State Extension - Apple Disease Management"
+  },
+  "Apple___Cedar_apple_rust": {
+    "disease_name": "Cedar Apple Rust",
+    "cause": "Fungus (Gymnosporangium juniperi-virginianae)",
+    "prevention": "Remove nearby eastern red cedar trees if possible; plant resistant varieties.",
+    "treatment": "Apply immunox or sulfur-based fungicides from pink bud through petal fall.",
+    "citation": "Cornell Cooperative Extension"
+  },
+  "Apple___healthy": {
+    "disease_name": "Healthy Apple Leaf",
+    "cause": "None",
+    "prevention": "Maintain regular watering and fertilization schedules.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "USDA Agricultural Extension Service"
+  },
+  "Blueberry___healthy": {
+    "disease_name": "Healthy Blueberry Leaf",
+    "cause": "None",
+    "prevention": "Maintain acidic soil pH (4.5–5.5) and adequate soil moisture.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Michigan State University Extension"
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "disease_name": "Cherry Powdery Mildew",
+    "cause": "Fungus (Podosphaera clandestina)",
+    "prevention": "Prune trees to improve light penetration and airflow.",
+    "treatment": "Apply sulfur or potassium bicarbonate fungicides at first sign of white fungal growth.",
+    "citation": "UC IPM Cherry Powdery Mildew Guidelines"
+  },
+  "Cherry_(including_sour)___healthy": {
+    "disease_name": "Healthy Cherry Leaf",
+    "cause": "None",
+    "prevention": "Provide balanced irrigation and proper canopy pruning.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "PNW Plant Disease Management Handbook"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "disease_name": "Corn Gray Leaf Spot",
+    "cause": "Fungus (Cercospora zeae-maydis)",
+    "prevention": "Practice crop rotation with non-host crops and till crop residue.",
+    "treatment": "Apply foliar fungicides such as azoxystrobin or pyraclostrobin when disease pressure is high.",
+    "citation": "Iowa State University Extension"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "disease_name": "Corn Common Rust",
+    "cause": "Fungus (Puccinia sorghi)",
+    "prevention": "Plant resistant hybrids and manage field residue.",
+    "treatment": "Apply fungicides if rust pustules cover significant leaf area before tasseling.",
+    "citation": "Purdue University Field Crop Pathology"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "disease_name": "Corn Northern Leaf Blight",
+    "cause": "Fungus (Exserohilum turcicum)",
+    "prevention": "Utilize resistant hybrids and practice 2-year crop rotation.",
+    "treatment": "Spray triazole or strobilurin-based fungicides early in disease outbreak.",
+    "citation": "University of Illinois Extension"
+  },
+  "Corn_(maize)___healthy": {
+    "disease_name": "Healthy Corn Leaf",
+    "cause": "None",
+    "prevention": "Ensure optimal nitrogen fertilization and weed management.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Purdue Extension"
+  },
+  "Grape___Black_rot": {
+    "disease_name": "Grape Black Rot",
+    "cause": "Fungus (Guignardia bidwellii)",
+    "prevention": "Ensure good sunlight exposure and canopy airflow by pruning.",
+    "treatment": "Apply myclobutanil or mancozeb fungicides from pre-bloom through post-bloom.",
+    "citation": "UC IPM Grape Guidelines"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "disease_name": "Grape Esca (Black Measles)",
+    "cause": "Fungal complex (Phaeomoniella chlamydospora, Phaeoacremonium aleophilum)",
+    "prevention": "Protect pruning wounds with wound sealants to prevent spore entry.",
+    "treatment": "Remove infected wood and apply systemic fungicides during dormant pruning.",
+    "citation": "UC Davis Viticulture Extension"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "disease_name": "Grape Leaf Blight",
+    "cause": "Fungus (Pseudocercospora vitis)",
+    "prevention": "Rake and destroy fallen leaves in autumn.",
+    "treatment": "Apply copper-based sprays or Mancozeb after fruit set.",
+    "citation": "Texas A&M AgriLife Extension"
+  },
+  "Grape___healthy": {
+    "disease_name": "Healthy Grape Leaf",
+    "cause": "None",
+    "prevention": "Maintain proper vineyard canopy management.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Cornell Viticulture Extension"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "disease_name": "Citrus Greening (HLB)",
+    "cause": "Bacterium (Candidatus Liberibacter asiaticus) spread by Asian citrus psyllid",
+    "prevention": "Control Asian citrus psyllid populations with insecticides and use certified disease-free trees.",
+    "treatment": "No cure exists; remove infected trees immediately to prevent insect-borne spread.",
+    "citation": "UF/IFAS Extension Citrus Research"
+  },
+  "Peach___Bacterial_spot": {
+    "disease_name": "Peach Bacterial Spot",
+    "cause": "Bacterium (Xanthomonas arboricola pv. pruni)",
+    "prevention": "Plant resistant varieties and avoid excessive nitrogen fertilizer.",
+    "treatment": "Apply copper sprays during leaf fall and oxytetracycline during early blooming.",
+    "citation": "University of Georgia Extension"
+  },
+  "Peach___healthy": {
+    "disease_name": "Healthy Peach Leaf",
+    "cause": "None",
+    "prevention": "Monitor for tree borers and maintain balanced soil nutrition.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Clemson Cooperative Extension"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "disease_name": "Pepper Bacterial Spot",
+    "cause": "Bacterium (Xanthomonas euvesicatoria)",
+    "prevention": "Use pathogen-free seeds, avoid overhead irrigation, and rotate crops.",
+    "treatment": "Spray fixed copper mixed with mancozeb to manage bacterial populations.",
+    "citation": "UF/IFAS Extension Vegetable Production"
+  },
+  "Pepper,_bell___healthy": {
+    "disease_name": "Healthy Pepper Leaf",
+    "cause": "None",
+    "prevention": "Ensure consistent soil moisture and adequate calcium supply.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "UC IPM Pepper Guidelines"
+  },
+  "Potato___Early_blight": {
+    "disease_name": "Potato Early Blight",
+    "cause": "Fungus (Alternaria solani)",
+    "prevention": "Rotate crops and maintain adequate plant nutrition (especially nitrogen).",
+    "treatment": "Apply chlorothalonil or mancozeb at initial symptom appearance.",
+    "citation": "University of Wisconsin Extension"
+  },
+  "Potato___Late_blight": {
+    "disease_name": "Potato Late Blight",
+    "cause": "Oomycete pathogen (Phytophthora infestans)",
+    "prevention": "Plant certified seed tubers and avoid prolonged leaf wetness.",
+    "treatment": "Apply systemic fungicides such as cymoxanil or copper hydroxide immediately.",
+    "citation": "USDA Agricultural Research Service"
+  },
+  "Potato___healthy": {
+    "disease_name": "Healthy Potato Leaf",
+    "cause": "None",
+    "prevention": "Hill soil properly and manage field drainage.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Maine Potato Board Guidelines"
+  },
+  "Raspberry___healthy": {
+    "disease_name": "Healthy Raspberry Leaf",
+    "cause": "None",
+    "prevention": "Ensure well-drained soil and prune old canes after harvest.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Ohioline Agricultural Extension"
+  },
+  "Soybean___healthy": {
+    "disease_name": "Healthy Soybean Leaf",
+    "cause": "None",
+    "prevention": "Practice annual crop rotation with corn or small grains.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "Soybean Research & Information Network"
+  },
+  "Squash___Powdery_mildew": {
+    "disease_name": "Squash Powdery Mildew",
+    "cause": "Fungus (Podosphaera xanthii)",
+    "prevention": "Plant in full sun and select resistant squash varieties.",
+    "treatment": "Apply neem oil, sulfur sprays, or potassium bicarbonate at first sign of white spots.",
+    "citation": "UC IPM Cucurbit Guidelines"
+  },
+  "Strawberry___Leaf_scorch": {
+    "disease_name": "Strawberry Leaf Scorch",
+    "cause": "Fungus (Diplocarpon earlianum)",
+    "prevention": "Remove dead foliage after harvest and practice drip irrigation.",
+    "treatment": "Apply copper-based fungicides or captan before flowering.",
+    "citation": "NC State Extension Strawberries"
+  },
+  "Strawberry___healthy": {
+    "disease_name": "Healthy Strawberry Leaf",
+    "cause": "None",
+    "prevention": "Straw mulch beds to prevent soil contact with leaves.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "University of Maryland Extension"
+  },
+  "Tomato___Bacterial_spot": {
+    "disease_name": "Tomato Bacterial Spot",
+    "cause": "Bacterium (Xanthomonas spp.)",
+    "prevention": "Sanitize tools, use certified disease-free seed, and avoid wet foliage.",
+    "treatment": "Apply copper fungicide combined with actigard or mancozeb.",
+    "citation": "UF/IFAS Extension Tomato Guidelines"
+  },
+  "Tomato___Early_blight": {
+    "disease_name": "Tomato Early Blight",
+    "cause": "Fungus (Alternaria solani)",
+    "prevention": "Stake tomatoes to elevate foliage off soil and practice crop rotation.",
+    "treatment": "Apply chlorothalonil, mancozeb, or copper sprays every 7–10 days.",
+    "citation": "UMass Extension Vegetable Program"
+  },
+  "Tomato___Late_blight": {
+    "disease_name": "Tomato Late Blight",
+    "cause": "Oomycete pathogen (Phytophthora infestans)",
+    "prevention": "Avoid overhead watering and destroy infected plants promptly.",
+    "treatment": "Apply copper-based or chlorothalonil fungicides immediately upon detection.",
+    "citation": "Cornell University Cooperative Extension"
+  },
+  "Tomato___Leaf_Mold": {
+    "disease_name": "Tomato Leaf Mold",
+    "cause": "Fungus (Passalora fulva)",
+    "prevention": "Keep relative humidity in greenhouse/garden below 85% with ventilation.",
+    "treatment": "Apply copper fungicides or chlorothalonil starting at early infection.",
+    "citation": "Ontario Ministry of Agriculture"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "disease_name": "Tomato Septoria Leaf Spot",
+    "cause": "Fungus (Septoria lycopersici)",
+    "prevention": "Mulch around plant bases to prevent fungal spores from splashing up from soil.",
+    "treatment": "Apply copper fungicides or chlorothalonil at first sign of lower leaf spots.",
+    "citation": "Missouri Botanical Garden Extension"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "disease_name": "Tomato Two-Spotted Spider Mite",
+    "cause": "Pest (Tetranychus urticae)",
+    "prevention": "Avoid dusty conditions and protect natural predatory insects.",
+    "treatment": "Spray with insecticidal soap, neem oil, or specific miticides.",
+    "citation": "UC IPM Tomato Spider Mites"
+  },
+  "Tomato___Target_Spot": {
+    "disease_name": "Tomato Target Spot",
+    "cause": "Fungus (Corynespora cassiicola)",
+    "prevention": "Improve field drainage and maintain adequate canopy airflow.",
+    "treatment": "Apply azoxystrobin or chlorothalonil fungicides.",
+    "citation": "UF/IFAS Extension"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "cause": "Begomovirus transmitted by Silverleaf Whiteflies",
+    "prevention": "Use yellow sticky traps and insect mesh screens to control whitefly vector.",
+    "treatment": "Remove virus-infected plants; apply imidacloprid or insecticidal soap for whitefly control.",
+    "citation": "UC IPM Tomato Yellow Leaf Curl"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "disease_name": "Tomato Mosaic Virus",
+    "cause": "Tobamovirus (ToMV) spread mechanically via hands and tools",
+    "prevention": "Wash hands with soap/milk before handling plants; disinfect tools with bleach.",
+    "treatment": "No chemical cure exists; pull out and discard infected plants.",
+    "citation": "UMN Extension Plant Diseases"
+  },
+  "Tomato___healthy": {
+    "disease_name": "Healthy Tomato Leaf",
+    "cause": "None",
+    "prevention": "Maintain regular watering at the root level and balanced nutrition.",
+    "treatment": "No treatment required. The plant is healthy.",
+    "citation": "USDA Agricultural Extension Service"
+  }
+}
